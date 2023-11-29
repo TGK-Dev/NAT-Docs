@@ -14,11 +14,11 @@ We hope this guide helps you organize your events and giveaways more efficiently
 
 ## **Before using the payout create command, make sure to gather the following information:**
 
-* [ ] Event/Giveaway Name
-* [ ] Message ID where the winners are mentioned or the event winner announcement message ID
-* [ ] Winners (you can use both mentions and id but they need to add at least one space between each)
-* [ ] Prize quantity
-* [ ] Item (if needed)
+* Event/Giveaway Name
+* Message ID where the winners are mentioned or the event winner announcement message ID
+* Winners (you can use both mentions and id but they need to add at least one space between each)
+* Prize quantity
+* Item (if needed)
 
 Ensure all this information is ready before using the payout create command. This will help make the payout process smoother and more efficient.
 
