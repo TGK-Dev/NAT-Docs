@@ -14,6 +14,6 @@ description: In this section we will learn how to configure the payout module
 
 ## Let's Get started on Configuration
 
-to get started configure by finding /serversettings[^1] command which shows you all the available module &#x20;
+to get started configure by finding /serversettings command which shows you all the available modules open the dropdown and select option **Dank** **Payout Management which** which will update the current message with a similar message like this
 
-[^1]: \</serversettings:1068960308800008253>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
