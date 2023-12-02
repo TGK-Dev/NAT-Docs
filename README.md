@@ -1,3 +1,7 @@
+---
+description: Here are few quick links for faster navigation
+---
+
 # Docs
 
 
@@ -6,8 +10,8 @@
 [Dank Pool](<Docs/Dank Pool/>)
 {% endcontent-ref %}
 
-{% content-ref url="Docs/Payouys/" %}
-[Payouys](Docs/Payouys/)
+{% content-ref url="Docs/Payouts/" %}
+[Payouts](Docs/Payouts/)
 {% endcontent-ref %}
 
 {% content-ref url="Docs/Server Lockdown/" %}
