@@ -1,3 +1,3 @@
 # Table of contents
 
-* [The Payout Guide](README.md)
+* [Module Configuration](README.md)
