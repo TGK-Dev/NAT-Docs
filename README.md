@@ -4,7 +4,7 @@ description: Here are few quick links for faster navigation
 
 # Overview
 
-
+this page will provide an over view for a help page (content soon)
 
 {% content-ref url="dank-pool.md" %}
 [dank-pool.md](dank-pool.md)
