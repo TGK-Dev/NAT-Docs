@@ -2,26 +2,26 @@
 description: Here are few quick links for faster navigation
 ---
 
-# Docs
+# Overview
 
 
 
-{% content-ref url="Docs/Dank Pool/" %}
-[Dank Pool](<Docs/Dank Pool/>)
+{% content-ref url="dank-pool.md" %}
+[dank-pool.md](dank-pool.md)
 {% endcontent-ref %}
 
-{% content-ref url="Docs/Payouts/" %}
-[Payouts](Docs/Payouts/)
+{% content-ref url="payouts.md" %}
+[payouts.md](payouts.md)
 {% endcontent-ref %}
 
-{% content-ref url="Docs/Server Lockdown/" %}
-[Server Lockdown](<Docs/Server Lockdown/>)
+{% content-ref url="server-lockdown.md" %}
+[server-lockdown.md](server-lockdown.md)
 {% endcontent-ref %}
 
-{% content-ref url="Docs/Private Voice/" %}
-[Private Voice](<Docs/Private Voice/>)
+{% content-ref url="private-voice.md" %}
+[private-voice.md](private-voice.md)
 {% endcontent-ref %}
 
-{% content-ref url="Docs/Mafia/" %}
-[Mafia](Docs/Mafia/)
+{% content-ref url="mafia.md" %}
+[mafia.md](mafia.md)
 {% endcontent-ref %}
