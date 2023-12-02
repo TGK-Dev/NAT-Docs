@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Module Configuration](README.md)
+* [Page](README.md)
