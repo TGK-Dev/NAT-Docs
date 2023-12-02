@@ -10,8 +10,8 @@ description: Here are few quick links for faster navigation
 [dank-pool.md](dank-pool.md)
 {% endcontent-ref %}
 
-{% content-ref url="payouts.md" %}
-[payouts.md](payouts.md)
+{% content-ref url="payouts/" %}
+[payouts](payouts/)
 {% endcontent-ref %}
 
 {% content-ref url="server-lockdown.md" %}

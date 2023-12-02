@@ -1,8 +1,12 @@
 # Table of contents
 
 * [Overview](README.md)
+* [💵 Dank Payout Management](payouts/README.md)
+  * [Configuration](payouts/configuration.md)
+  * [Queue Payout](payouts/queue-payout.md)
+  * [Paying Payouts](payouts/paying-payouts.md)
+  * [Misc](payouts/misc.md)
 * [🏦 Dank Pool](dank-pool.md)
 * [🔒 Server Lockdown](server-lockdown.md)
 * [🎤 Private Voice](private-voice.md)
-* [💵 Payouts](payouts.md)
 * [🔪 Mafia](mafia.md)
