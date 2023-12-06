@@ -9,20 +9,20 @@ For work on the payout system, you will need to set the following settings
 * [Payout Mangers](#user-content-fn-5)[^5]
 * [Staff Roles](#user-content-fn-6)[^6]
 
-All of the above settings can be changed from command /serversetings
+These settings can be adjusted using the /serversettings command to manage and customize your payout system effectively.
 
 
 
 
 
-[^1]: All New payouts are posted here for user to claim
+[^1]: Choose the channel where notifications for new payouts will be shown. This allows users to easily locate and claim their payouts.
 
-[^2]: All Claimed Payout are posted here
+[^2]: Opt for a channel where successfully claimed payouts will be systematically organized. This ensures efficient tracking and management.
 
-[^3]: channel where you can use the /payout express
+[^3]: Specify the channel where users can conduct transactions swiftly using the `/payout express` command.
 
-[^4]: How much time users have to claim the payouts
+[^4]: Define the timeframe during which users are permitted to claim their payouts. This helps maintain a structured and timely process.
 
-[^5]: Payouts Managers who can reject any claimed/unclaimed Payouts
+[^5]: Assign specific role with the authority to review and approve claimed and unclaimed payouts. This adds a layer of control and security.
 
-[^6]: Staff who can create payout but can only reject there own payouts
+[^6]: Assign specific roles to staff members. This grants them the ability to initiate payouts while maintaining accountability by restricting them to reject only their own transactions.
