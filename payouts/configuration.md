@@ -11,9 +11,7 @@ For work on the payout system, you will need to set the following settings
 
 These settings can be adjusted using the /serversettings command to manage and customize your payout system effectively.
 
-
-
-
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="467"><figcaption><p>Example Configuration for Module<br>(Server: TGK)</p></figcaption></figure>
 
 [^1]: Choose the channel where notifications for new payouts will be shown. This allows users to easily locate and claim their payouts.
 
