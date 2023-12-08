@@ -4,13 +4,13 @@ description: Welcome to the Queue Payout Guide!
 
 # Queue Payout
 
-This guide will show you how to use the [/payout create](#user-content-fn-1)[^1] command, which helps event and giveaway & event managers set up a queue for prizes that members can claim in a specific time frame.
+This guide will show you how to use the [<mark style="color:blue;">/payout create</mark>](#user-content-fn-1)[^1] command, which helps event and giveaway & event managers set up a queue for prizes that members can claim in a specific time frame.
 
 Using this command can save time and reduce misunderstandings, making it easier for you to run your events and giveaways smoothly. In this guide, we'll review the steps to use the command properly.
 
 We hope this guide helps you organize your events and giveaways more efficiently. Let's get started!
 
-**Before using the \</payout create:1151590528463405149> command, make sure to gather the following information:**
+**Before using the **<mark style="color:blue;">**/payout create**</mark>** command, make sure to gather the following information:**
 
 * Event/Giveaway Name
 * Message ID where the winners are mentioned or the event winner announcement message ID
@@ -18,7 +18,7 @@ We hope this guide helps you organize your events and giveaways more efficiently
 * Prize quantity
 * Item (if needed)
 
-Ensure all of this information is ready before using the \</payout create:1076624547622699092> command. This will help make the payout process smoother and more efficient.
+Ensure all of this information is ready before using the <mark style="color:blue;">/payout create</mark> command. This will help make the payout process smoother and more efficient.
 
 #### Command Examples With Items
 
