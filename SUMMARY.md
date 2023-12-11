@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [🔓 Channels Management](channels-management.md)
 * [💵 Dank Payout Management](payouts/README.md)
   * [Configuration](payouts/configuration.md)
   * [Queue Payout](payouts/queue-payout.md)
