@@ -12,3 +12,4 @@
 * [🎤 Private Voice](private-voice.md)
 * [🔪 Mafia](mafia.md)
 * [Credits](credits.md)
+* [🥇 Dank Adventure](dank-adventure.md)
