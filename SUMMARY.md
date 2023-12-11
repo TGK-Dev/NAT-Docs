@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [🥇 Dank Adventure](dank-adventure.md)
 * [🔓 Channels Management](channels-management.md)
 * [💵 Dank Payout Management](payouts/README.md)
   * [Configuration](payouts/configuration.md)
@@ -12,4 +13,3 @@
 * [🎤 Private Voice](private-voice.md)
 * [🔪 Mafia](mafia.md)
 * [Credits](credits.md)
-* [🥇 Dank Adventure](dank-adventure.md)
