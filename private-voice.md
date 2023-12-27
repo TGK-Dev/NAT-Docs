@@ -34,6 +34,6 @@ Private voice channels offer a secure and customizable space for you and your fr
 - **Communication:** Clearly convey changes or restrictions to channel members.
 - **Moderation:** Assign moderation roles for effective channel management.
 
-Follow these instructions to create a secure, tailored private voice channel. Adjust settings as needed for a seamless and private conversation space.
+Follow these instructions to create a secure, tailored private voice channel.
 
 ![Screenshot_20231226-211425_Discord](https://github.com/TGK-Dev/NAT-Docs/assets/152521870/e7d1832e-5745-498d-b0c5-fdf83091f820)
